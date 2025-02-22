@@ -1,3 +1,3 @@
-# fingertap
+# FingerTap Game Project
 
-A new Flutter project.
+This is my first project.
